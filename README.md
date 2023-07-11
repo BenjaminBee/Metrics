@@ -25,7 +25,7 @@ HostName: Localhost
 Username: root
 Password: root
 
-Create new schema called `metrics`
+Create new schema called "metrics"
 
 Run the SQL script given above.
 
